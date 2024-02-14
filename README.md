@@ -31,4 +31,4 @@ pip install tensorflow
 4. Fine-tune a classifier's final layer to improve accuracy
 
 ## Demo
-[Try it on my profile](http://ec2-34-215-236-233.us-west-2.compute.amazonaws.com/alpaca_mobilenetv2)
+[Try it on my profile](http://ec2-52-43-46-199.us-west-2.compute.amazonaws.com/alpaca_mobilenetv2)
